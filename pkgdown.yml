@@ -1,0 +1,10 @@
+pandoc: 3.1.11
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  vignette-toypackage-1: vignette-toypackage-1.html
+last_built: 2024-04-08T11:19Z
+urls:
+  reference: https://floswald.github.io/toypackage/reference
+  article: https://floswald.github.io/toypackage/articles
+
