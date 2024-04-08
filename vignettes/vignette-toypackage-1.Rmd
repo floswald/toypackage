@@ -1,0 +1,31 @@
+---
+title: "vignette-toypackage-1"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{vignette-toypackage-1}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(toypackage)
+```
+
+
+## Introduction to using the toypackage
+
+the purpose of this ...
+
+```{r}
+setup1 <- hello("to you")
+setup1
+```
+
+
